@@ -6,5 +6,5 @@ HTML
 CSS
 Javascript
 
-Foram utilizadas nesse projeto as tecnologias: HTML5, CSS e JS 
+Foram utilizadas nesse projeto as tecnologias: HTML5, CSS e JS !! 
 
